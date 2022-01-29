@@ -15,6 +15,8 @@
   "author": "Siddhant Sharma",
   "license": "ISC",
   "dependencies": {
-    "node": "^17.4.0"
+    "cheerio": "^1.0.0-rc.10",
+    "node": "^17.4.0",
+    "request": "^2.88.2"
   }
 }
