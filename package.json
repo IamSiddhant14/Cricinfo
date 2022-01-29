@@ -1,0 +1,20 @@
+{
+  "name": "cricinfo",
+  "version": "1.0.0",
+  "description": "The application gathers the data of the past matches entred by the user ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fantasy",
+    "sports",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Siddhant Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^17.4.0"
+  }
+}
